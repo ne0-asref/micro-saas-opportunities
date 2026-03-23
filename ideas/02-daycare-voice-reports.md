@@ -28,6 +28,12 @@ Daycare teachers and early childhood educators are required to write individual 
 **The Newsroom NZ (ECE teacher, 12 years experience):**
 > "I spend hours unpaid catching up on paperwork, planning experiences for the children... I go in early, I stay late, I work on the weekends, and at night — once I've put my own child to bed."
 
+**App Store / JustUseApp (former teacher, current administrator):**
+> "Would you rather your child's teacher have their focus on a tablet entering information, or 100% focused on your children? A teacher texting their friend vs. a teacher entering what the kids ate for lunch — to the children it's all the same. Their teacher is looking at a screen, not them."
+
+**Play to Learn Preschool (16-year teacher, Brightwheel review):**
+> "We spent the entire snack time feverishly writing these notes so they could go home in students' backpacks each day... we estimate that we wrote 15–20 THOUSAND of those daily reports over the years." — After switching to Brightwheel, the same teacher noted they had "not utilized the assessment or learning objective features" — the hard documentation still gets skipped.
+
 **Australian ECE educator survey (Springer Nature, N=570, 2025):**
 - 71% agreed that non-contact duties require too much time away from children
 - Open-ended responses indicate educators perceive documentation as "low value, too time-consuming, and not worthy of their time"
@@ -147,6 +153,16 @@ No competitor offers this for individual teachers at any price.
 - 100 paying teachers = $1.2K–1.9K MRR (low price, volume play)
 - 1,000 paying teachers = $12K–19K MRR
 - Churn indicator: teacher leaves job or center adopts a different platform
+
+## Product Opportunity Signals (synthesized from 15 app store pain points)
+
+Deep-dive review mining across Trustpilot, Capterra, Software Advice, GetApp, G2, and App Store reviews identified 5 clear themes that existing tools consistently fail at:
+
+1. *Too much friction in documentation* — every tap, re-entry of the same data for 20 children is a failure. Gap: voice-first or ambient logging.
+2. *Teachers pulled off the floor* — holding a tablet to document is incompatible with being present with children. The winning product keeps teachers eyes-up.
+3. *Features exist but are never used* — milestone tracking, portfolios, assessments exist in Brightwheel/Lillio but are so painful teachers skip them. The problem is UX, not missing functionality.
+4. *Pricing punishes individuals* — home daycare providers and solo ECE teachers are a massive underserved segment that cannot justify center-tier pricing ($99–400/mo).
+5. *Multilingual is a whitespace* — the dominant apps are English-only; the few apps that do translation (Bloomz, Famly) are building moats; opportunity is to bake it in at the infrastructure level.
 
 ## Supporting Market Data
 
