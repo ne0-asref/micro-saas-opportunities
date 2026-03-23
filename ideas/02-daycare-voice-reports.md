@@ -34,10 +34,33 @@ Daycare teachers and early childhood educators are required to write individual 
 **Play to Learn Preschool (16-year teacher, Brightwheel review):**
 > "We spent the entire snack time feverishly writing these notes so they could go home in students' backpacks each day... we estimate that we wrote 15–20 THOUSAND of those daily reports over the years." — After switching to Brightwheel, the same teacher noted they had "not utilized the assessment or learning objective features" — the hard documentation still gets skipped.
 
-**Australian ECE educator survey (Springer Nature, N=570, 2025):**
-- 71% agreed that non-contact duties require too much time away from children
-- Open-ended responses indicate educators perceive documentation as "low value, too time-consuming, and not worthy of their time"
-- Workload Inventory scores: "substantial in size, insufficient time to complete, requiring significant effort"
+**Australian ECE educator survey (Springer Nature / University of Sydney, N=570, 2025):**
+- 75%+ of educators work an average of **9 unpaid hours per week** — driven primarily by non-contact administrative work
+- 71% agree non-contact duties require too much time away from children
+- Teachers spend less than **30% of their workday in focused interaction with children** (under 2.5 hours/day)
+- Workload Inventory: "substantial in size, insufficient time to complete, requiring significant effort"
+
+**PMC / Head Start Turnover Study (Springer Nature, peer-reviewed, 2024) — direct educator quotes:**
+> "The paperwork becomes more important than the children."
+> "Too much paperwork is expected out of whatever little office time we get."
+— 75% of focus group participants held a second job; many worked 60+ hours per week to complete required documentation on personal time
+
+**ECE Learning Unlimited (ECE centre owner, 30+ years):**
+> "Too often, they're using their personal time just to 'catch up' on documentation — and feeling like they're failing if they don't keep pace. Meanwhile, managers are pulling their hair out trying to schedule enough non-contact time. This pressure-cooker environment is pushing good teachers out of our profession."
+
+> "Somewhere along the way, we've built ourselves a monster — one that's consuming our time, energy, and passion. Let's stop creating inauthentic documentation that does nothing to improve teaching practice. We may as well write it on a piece of paper and burn it."
+
+**LoveHeart AI user testimonial (Ping, non-native English speaker):**
+> "I used to be scared to write learning stories for families because English is not my first language."
+
+**YourTango / TikTok (daycare worker, viral post, May 2024):**
+> "I've already been told I need to clock out at 4, and if I'm not done, then continue working after I clock out."
+
+**Investor signal — LoveHeart AI (Australia, $2.3M seed, 2024):**
+The company was built entirely on this thesis: *ECE teachers spend 3–5 hours/week on documentation and it is the #1 cause of attrition from the sector — not just individual centers, but the profession as a whole.* Post-investment results: **65% of users say they are more likely to stay in the industry** because of the tool; **92% reported significant time savings**; turns a 30–60 minute summative assessment into a 5-minute task.
+
+**Teaching Strategies GOLD (federally mandated in 90%+ of Head Start programs):**
+Teachers must track 38 developmental objectives per child, across 3 checkpoint periods per year. Estimated 10–15 min/child/week in TS GOLD logging alone — in an 18-child classroom, that is 3–4.5 hours per week of documentation before daily reports are even counted.
 
 **Structural problem:** Enterprise tools (Brightwheel $150–400/mo, HiMama/Lillio $99+/mo) are priced for the center director, not the individual teacher. The 30% annual turnover rate in ECE (Wilder Research, 2023) means teachers lose access to the platform when they switch jobs. There is no affordable, portable, personal tool for the individual teacher.
 
@@ -60,6 +83,9 @@ A voice-first mobile tool where a teacher speaks a brief voice memo per child, a
 3. AI transcribes and structures into a formatted daily note in the center's preferred style
 4. Teacher reviews with one tap, edits if needed, sends to parent via SMS/email/WhatsApp
 5. For quarterly reports: teacher records a 2–3 minute audio summary per child; AI generates a full developmental progress report with milestone tracking
+
+**Why voice-first is validated behavior, not a hypothesis:**
+Research across multiple sources confirms teachers are *already* using voice memos informally to capture observations — grabbing their phone mid-session to record a note before they forget. A product that formalizes this organic behavior (voice in → structured parent report out) aligns with what teachers are already doing. Speaking is ~6x faster than typing. LoveHeart AI supports voice memos specifically because teachers demanded it. This is not an invented workflow.
 
 **Multilingual support (key differentiator):**
 - Whisper transcribes 99+ languages natively
@@ -115,9 +141,9 @@ A voice-first mobile tool where a teacher speaks a brief voice memo per child, a
 | Procare | Enterprise $$$ | No | No | No |
 | **Chirp** | $12–49/mo | ✅ Yes | ✅ Yes | ✅ Yes |
 
-**Gap:** Zero affordable, individual-teacher-facing, voice-first tools exist at any price point.
+**Gap:** No affordable, individual-teacher-facing, voice-first tool exists at any price point.
 
-**Closest competitor:** LoveHeart / Mana (Australia, $2.3M seed Aug 2024) — text-first documentation tool, AUD $39/mo, center-focused. Does NOT do voice-to-narrative. Does NOT target individual teachers.
+**Closest competitor:** LoveHeart / Mana (Australia, $2.3M seed Aug 2024, 40,000+ educators) — text/jottings-first documentation tool, AUD $39/mo, center-focused. Supports voice memos as input but does NOT offer voice-to-structured-report as a primary workflow. Does NOT have per-teacher individual pricing. Does NOT have multilingual parent report delivery. Strong in Australia/NZ; minimal US presence — geographic moat available.
 
 ## Build Complexity: Low
 
@@ -166,13 +192,24 @@ Deep-dive review mining across Trustpilot, Capterra, Software Advice, GetApp, G2
 
 ## Supporting Market Data
 
-- **991,600** childcare workers in the US (BLS, 2024)
-- **30%** annual ECE turnover rate (Wilder Research, 2023) — creates constant re-purchase opportunity
-- **~50%** of early educators report worsened burnout since COVID — administrative burden is a top cited cause
-- **71%** of ECE educators agree non-contact duties take too much time from children (Australian study, Springer, 2025, N=570)
-- **$245.77M** childcare management software market (2024) → **$354.92M by 2030** (7.63% CAGR)
-- **95.4%** of ECE centers are still independent — fragmented, no dominant tool at the individual teacher level
-- **~500,000** immigrant ECE workers in the US (21% of workforce) — multilingual reporting directly addresses their daily reality
+| Claim | Stat | Source | Year |
+|-------|------|--------|------|
+| U.S. childcare workforce | 2.2 million | CSCCE / UC Berkeley | 2024 |
+| BLS childcare worker count | 991,600 | BLS | 2024 |
+| Unpaid hours/week (peer-reviewed) | **9 hrs avg**, 75%+ of educators | Springer / U. Sydney, N=570 | 2025 |
+| Time in focused child interaction | **< 30% of workday** | Springer / U. Sydney | 2025 |
+| ECE burnout rate | 45% | K-12 Dive survey, n=2,300 | 2022 |
+| Annual ECE turnover rate | **33%** (65% higher than avg job) | Cleveland Federal Reserve | 2024 |
+| Paperwork named as #1 turnover driver | Primary factor | PMC / Head Start study | 2024 |
+| Centers with staffing shortages | 80%+ | NAEYC survey, n=11,154 | 2024 |
+| Immigrant educators | ~500K / 21%+ | CSCCE / UC Berkeley | 2024 |
+| Non-English-speaking educators | 27–35% | CSCCE / NWLC | 2024 |
+| Latinx parents: multilingual priority | 91% | NWLC | 2024 |
+| Bilingual parents missing school comms | 40% | LineLeader / industry | 2024 |
+| ECE centers still independent | 95.4% | Mordor Intelligence | 2024 |
+| Childcare mgmt software market | $245.77M → **$354.92M by 2030** | Mordor Intelligence | 2024 |
+| Procare acquisition (investor signal) | **$1.75B** (Roper Technologies) | Roper Technologies | 2024 |
+| Brightwheel valuation | ~$600M | CB Insights | 2024 |
 
 ## Next Steps When Ready to Build
 
