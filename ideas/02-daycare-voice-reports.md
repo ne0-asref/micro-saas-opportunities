@@ -111,15 +111,33 @@ Research across multiple sources confirms teachers are *already* using voice mem
 
 ## Revenue Model
 
-| Plan | Price | Features |
-|------|-------|----------|
-| Solo | $12/mo | Up to 15 children, daily notes, 2 languages |
-| Home Daycare | $19/mo | Up to 8 children, all report types, unlimited languages |
-| Center Pack | $49/mo | Up to 5 teachers, center branding, director dashboard |
+### Pricing Tiers (monthly / annual save 20%)
 
-**Multilingual support**: included in all plans — it's a differentiator, not an upsell.
+| Plan | Monthly | Annual | Features | Target |
+|------|---------|--------|----------|--------|
+| Solo | **$14/mo** | $134/yr | Up to 15 children, daily notes, all report types, unlimited languages | Individual ECE teacher, preschool aide |
+| Home Daycare | **$24/mo** | $230/yr | Unlimited children, all report types, unlimited languages, parent app access | Home daycare operator (3–8 kids) |
+| Center | **$89/mo** | $854/yr | Unlimited teachers, center branding, director dashboard, usage analytics, priority support | Small-medium centers (5–30 staff) |
 
-**Positioning:** "Write every child's report in 30 seconds. In any language."
+**Free trial**: 30 days, no credit card required. All features unlocked.
+
+**Multilingual**: included in every plan — it's the core differentiator, never gated.
+
+### Pricing rationale
+
+*Solo ($14/mo):*
+The median ECE teacher earns $13.07/hour. At $14/mo the payback is less than 90 minutes of their wage — and the tool saves 45+ minutes *daily*. Comparable to one coffee per month. Priced to eliminate any hesitation from an individual who finds it themselves without budget approval.
+
+*Home Daycare ($24/mo):*
+Home daycare operators typically charge $1,500–2,500/month per child. A 6-child home operator earns $9,000–15,000/month gross. $24/mo is rounding error. Priced higher than Solo because the operator controls their own purchasing decision and the value (no director to answer to, compliance documentation, parent-facing polish) is higher.
+
+*Center ($89/mo):*
+Positioned well below Brightwheel ($150–400/mo) and HiMama ($99+/mo), but priced to reflect the retention ROI pitch: centers pay $2,000–5,000+ to replace one teacher (recruiting, onboarding, coverage). LoveHeart data shows 65% of users more likely to stay in the profession after using the tool. A 10-teacher center with 33% annual turnover loses 3.3 teachers/year = $6,600–16,500 in replacement costs. Chirp at $89/mo ($1,068/yr) is the cheapest retention program available. This is the upsell pitch from teacher → director.
+
+### Positioning
+
+*For teachers:* "Write every child's report in 30 seconds. In any language."
+*For directors:* "The cheapest staff retention program you'll ever buy."
 
 ## Tech Stack
 
@@ -165,14 +183,36 @@ This is bigger than just a feature — it's a market entry strategy in underserv
 
 No competitor offers this for individual teachers at any price.
 
-## Distribution (no Reddit)
+## Distribution
 
-- **Facebook groups**: "Daycare Providers", "ECE Teachers & Educators", "Family Childcare Providers Network" — massive, very active, direct access to ICPs; organic sharing works well in tight-knit communities
-- **TikTok / Instagram**: ECE teachers are highly active on both; #daycarelife, #ECEteacher, #preschoolteacher hashtags have millions of views; viral potential high with before/after demo
-- **ECE training programs and licensing renewal providers**: every state requires ongoing professional development hours — CPE/PD platforms already have teacher trust and email lists; affiliate partnerships possible
-- **NAEYC and regional ECE conferences**: credibility play; professional community is tightly networked
-- **Google Ads**: "daycare daily report app", "teacher documentation app" — low CPC, high intent
-- **Childcare licensing agencies**: some states distribute tools to licensed providers; warm distribution channel with zero competition
+### Organic / Free (start here)
+
+- **Facebook groups** (highest priority): "Daycare Providers", "ECE Teachers & Educators", "Family Childcare Providers Network", "Home Daycare Providers", "Preschool Teachers Connect" — these groups have 50K–200K members each; tight-knit, high-trust communities that share tools aggressively; a genuine demo post can generate hundreds of sign-ups in 48 hours
+- **TikTok**: ECE teachers are among the most active communities on TikTok — #daycarelife (800M+ views), #ECEteacher, #preschoolteacher, #daycarecheck. A 60-second before/after video ("I used to spend 45 minutes writing reports every day after my shift, now I do it in 3 minutes while supervising") is highly shareable and costs nothing
+- **Instagram Reels**: same content, different distribution; ECE teacher accounts with 50K–500K followers are common and will reshare genuinely useful tools
+- **Teachers Pay Teachers (TpT)**: 7M+ teachers; list a free "Daily Report Template Pack" that drives to the app — standard distribution hack in the teacher tools market
+- **Pinterest**: massive teacher community; how-to content around "daycare daily report templates" and "ECE documentation hacks" has long-shelf-life SEO value
+
+### Partnerships (medium-term)
+
+- **ECE professional development platforms**: every state requires 10–20 hours of annual professional development for licensed educators; CPD providers (Teachstone, Teaching Channel, Child Care Education Institute) already have teacher trust and email lists — affiliate deals possible
+- **State childcare licensing agencies**: some states distribute tools to licensed providers as part of quality improvement programs; low competition, high credibility, warm door-opener
+- **NAEYC and regional ECE conferences**: vendor presence at NAEYC Annual Conference reaches 8,000+ ECE professionals; high CPA but strong conversion; a Chirp-sponsored session on "Reducing Documentation Burden" positions the brand as a thought leader
+- **Childcare resource and referral agencies (CCR&Rs)**: state-funded networks that support licensed childcare providers with training and resources — a natural distribution partner in every U.S. state
+- **Head Start program networks**: 90%+ use Teaching Strategies GOLD; an integration or workflow complement to TS GOLD is a warm entry point for the largest federally funded ECE segment
+
+### Paid / Performance (once product-market fit is confirmed)
+
+- **Google Ads**: "daycare daily report app", "teacher observation app", "preschool documentation tool", "how to write daily notes daycare" — low CPC (ECE is not a competitive ad market), high intent queries
+- **TikTok Ads**: target by interest (early childhood education, childcare, preschool teaching); teacher demographics on TikTok are well-targetable
+- **Facebook / Instagram Ads**: custom audiences from ECE Facebook groups; lookalike audiences built from early customers
+
+### Demand-pull angle (underrated)
+
+Parents are an underutilized distribution channel. If parents start asking *"does your daycare use Chirp?"* it creates top-down pressure on centers and bottom-up demand from teachers. Tactics:
+- Target parenting Facebook groups and apps (Peanut, BabyCenter) with the multilingual angle: "Get your child's daily reports in Spanish/Arabic/French"
+- Review sites where parents research daycares (Winnie, Care.com): a Chirp-verified badge or integration would make it a differentiator for centers
+- App Store optimization for parent-facing search terms
 
 ## Success Metrics
 
